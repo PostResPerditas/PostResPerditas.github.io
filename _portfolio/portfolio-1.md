@@ -1,6 +1,6 @@
 ---
 title: "Shushan Academic Society Student Club (2019-2021)"
-excerpt: "Short description of portfolio item number 1<br/><img src="/images/activity_shushan.jpg" width = "300">"
+excerpt: "Short description of portfolio item number 1<br/><img src="/images/activity_shushan.jpg">"
 collection: portfolio
 ---
 
