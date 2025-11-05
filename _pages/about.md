@@ -22,3 +22,7 @@ More information about my current research and working papers can be found here.
 Academic Papers
 ======
 - [1] XXX.
+
+Thesis
+======
+- [1]
