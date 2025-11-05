@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-09-15-paper-title-number-1
 excerpt: '**Aiming to plan the grasping process by aligning and interacting representations through hand-object contacts.**
-![icira paper](/images/papers/icira.png)'
+<img src="/images/papers/icira.png" alt="icira" width="800">'
 ---
 
 Authors: **Jian Liu**, Zeyuan Yang, Lu Tang, Sijie Yan, and Han Ding.
@@ -23,6 +23,6 @@ Highlights & Achievements
 - An IBS-based inverse grasping trajectory planning framework is used, to generate collision-free grasping motions backward from specified contact states.
 - Validation on an arm-dexterous hand robotic system demonstrates our strategy’s efficacy, in generating both functionally compliant grasping trajectories and final configurations.
 
-![icira paper](/images/papers/icira.png)
+<img src="/images/papers/icira.png" alt="icira" width="700">
 
-![icira paper_1](/images/papers/icira_1.png)
+<img src="/images/papers/icira_1.png" alt="icira_1" width="700">

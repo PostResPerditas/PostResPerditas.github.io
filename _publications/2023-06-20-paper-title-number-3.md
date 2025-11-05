@@ -4,7 +4,7 @@ collection: publications
 category: books
 permalink: /publication/2023-06-20-paper-title-number-3
 excerpt: '**Aiming to overcome the weak stiffness issue in robotic machining and propose a suitable polishing process.**
-![thesis_1](/images/papers/thesis_1.png)'
+<img src="/images/papers/thesis_1.png" alt="thesis_1" width="600">'
 ---
 
 Authors: **Jian Liu**
@@ -23,6 +23,6 @@ Highlights & Achievements
 - The beam constraint model and the chained beam constraint model are theoretically derived, and the deformation modeling of the flexible beam is completed based on the chained beam constraint model.
 - The experimental research of robot polishing processing was carried out, and the influence of process parameters such as polishing pressure, polishing speed and residence time on the removal function was analyzed.
 
-![thesis_1](/images/papers/thesis_1.png)
+<img src="/images/papers/thesis_1.png" alt="thesis_1" width="500">
 
 ![thesis](/images/papers/thesis.png)
