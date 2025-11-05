@@ -17,12 +17,13 @@ My current research interests include dexterous grasping planning, geometry-base
 
 My future research plan and interest are to combine state-of-the-art robotic perception and control technologies with actual needs in unstructed scenarios to solve problems like manipulation of deformable objects, adaptive grasping, and dynamic control.
 
-More information about my current research and working papers can be found here.
+More information about my current research and working papers can be found [here](https://postresperditas.github.io/publications/).
 
 Academic Papers
 ======
-- [1] XXX.
+- [1] **Jian Liu**, Sihao Mao, Zeyuan Yang, Sijie Yan, and Han Ding. "A Relaxed Normal Vectors-Based Contact Points Guidance Framework for Stable Dexterous Grasp." IEEE/ASME Transactions on Mechatronics (Under Review).
+- [2] **Jian Liu**, Zeyuan Yang, Lu Tang, Sijie Yan, and Han Ding. “Contact Driven Functional Grasp Synthesis via Hand-Object Interaction State Representation”, International Conference on Intelligent Robotics and Applications (Accept, Oral Presentation).
 
 Thesis
 ======
-- [1]
+- [1] **Jian Liu**. “Design of End-Effector for Robotic Polishing and Research of Ploshing Process”, Bachelor’s Degree Thesis (Outstanding Bachelor’s Thesis).
