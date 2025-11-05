@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year graduate student from the State Key Laboratory of Intelligent Manufacturing Equipment and Technology, Huazhong University of Science and Technology, working on the robotic measurement and inspection of large-scale components. I received my B.Eng. in Mechanical Design, Manufacturing and Automation in 2022 from Huazhong University of Science and Technology.
+I am currently a third-year graduate student from the State Key Laboratory of Intelligent Manufacturing Equipment and Technology, Huazhong University of Science and Technology, working on the dexterous grasping and robotic manipulation. I received my B.Eng. in Mechanical Design, Manufacturing and Automation in 2023 from Dalian University of Technology.
 
 You can find my CV here: [Jian Liu's Curriculum Vitae](../assets/CV_JianLiu.pdf).
 
 Research Interests and Projects
 ======
-My current research interests include robotic measurement and inspection, large-scale metrology, and graph-based optimization methodology. The main focus of my current research is to achieve automatic robotic measurement and inspection of large-scale components with scarce 3D features (high-speed train surfaces, aircraft wings, turbine blades, etc.). My research is advised by Prof. Xiaojian Zhang from School of Mechanical Science and Engineering, Huazhong University of Science and Technology.
+My current research interests include dexterous grasping planning, geometry-based problem modeling and reinforce learning methods. The main focus of my current research is to achieve stable and intelligent robotic grasping and manipulation of diverse objects. My research is advised by Prof. Sijie Yan from School of Mechanical Science and Engineering, Huazhong University of Science and Technology.
 
-My future research plan and interest are to combine state-of-the-art robotic SLAM and perception technologies with actual needs in complicated scenarios to solve problems like vision-based localization, multi-agent collaboration, and human-computer interaction.
+My future research plan and interest are to combine state-of-the-art robotic perception and control technologies with actual needs in unstructed scenarios to solve problems like manipulation of deformable objects, adaptive grasping, and dynamic control.
 
 More information about my current research and working papers can be found here.
 
