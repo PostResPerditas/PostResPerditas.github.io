@@ -28,9 +28,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Attendre et espérer"
   location         : "Wuhan, China"
-  employer         : "HUST"
+  employer         : # "HUST"
   uri              : # https://postresperditas.github.io
-  email            : "mailto@hannki_lj@hust.edu.cn" 
+  email            : "hannki_lj@hust.edu.cn" 
 
   # Academic websites
   academia         : # URL
