@@ -24,4 +24,5 @@ Highlights & Achievements
 - Validation on an arm-dexterous hand robotic system demonstrates our strategy’s efficacy, in generating both functionally compliant grasping trajectories and final configurations.
 
 ![icira paper](/images/papers/icira.png)
+
 ![icira paper_1](/images/papers/icira_1.png)

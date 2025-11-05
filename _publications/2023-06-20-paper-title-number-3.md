@@ -24,4 +24,5 @@ Highlights & Achievements
 - The experimental research of robot polishing processing was carried out, and the influence of process parameters such as polishing pressure, polishing speed and residence time on the removal function was analyzed.
 
 ![thesis_1](/images/papers/thesis_1.png)
+
 ![thesis](/images/papers/thesis.png)
