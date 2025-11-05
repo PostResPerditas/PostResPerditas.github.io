@@ -7,10 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I am currently a third-year graduate student from the State Key Laboratory of Intelligent Manufacturing Equipment and Technology, Huazhong University of Science and Technology, working on the robotic measurement and inspection of large-scale components. I received my B.Eng. in Mechanical Design, Manufacturing and Automation in 2022 from Huazhong University of Science and Technology.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+You can find my CV here: [Jian Liu's Curriculum Vitae](../assets/CV_JianLiu.pdf).
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+Research Interests and Projects
+======
+My current research interests include robotic measurement and inspection, large-scale metrology, and graph-based optimization methodology. The main focus of my current research is to achieve automatic robotic measurement and inspection of large-scale components with scarce 3D features (high-speed train surfaces, aircraft wings, turbine blades, etc.). My research is advised by Prof. Xiaojian Zhang from School of Mechanical Science and Engineering, Huazhong University of Science and Technology.
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+My future research plan and interest are to combine state-of-the-art robotic SLAM and perception technologies with actual needs in complicated scenarios to solve problems like vision-based localization, multi-agent collaboration, and human-computer interaction.
+
+More information about my current research and working papers can be found here.
+
+Academic Papers
+======
+- [1] XXX.
